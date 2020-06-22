@@ -1,5 +1,6 @@
 # password_checker
-a basic app to check if the password was hacked before
+a basic app to check if the password was hacked before. 
+The app checks the password locally.
 
 How to use:
 1- you need to have python3 installed
