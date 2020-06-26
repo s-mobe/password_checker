@@ -53,10 +53,5 @@ b1.grid(row=0, column=3)
 tb = Text(window, height = 7, width = 50)
 tb.grid(row=1, column=0, rowspan = 3, columnspan = 7)
 
-<<<<<<< HEAD
-#scroll bar will be added another try
-
-=======
->>>>>>> f40587f9d24cf36fcabb79965ec2180339302a05
 if __name__== "__main__":
     window.mainloop()
