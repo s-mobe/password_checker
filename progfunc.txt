@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-this program checks the functionalityyyyyyy of a password vs an api using hashes
-=======
- this is non sense
->>>>>>> newbranch
