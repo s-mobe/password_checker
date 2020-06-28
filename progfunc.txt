@@ -1,1 +1,1 @@
-this program checks the functionality of a password vs an api using hashes
+ this is non sense
